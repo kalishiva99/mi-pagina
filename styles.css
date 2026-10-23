@@ -3,13 +3,13 @@
 ========================================= */
 
 :root {
-    --cream: #f8f1eb;
-    --cream-dark: #eee1d6;
-    --wine: #6e2737;
-    --wine-dark: #451823;
-    --rose: #b66b78;
-    --text: #34272a;
-    --white: #ffffff;
+  --cream: #fff0f5;        /* Rosado pastel muy suave para el fondo principal */
+  --cream-dark: #fddde6;   /* Rosado claro para tarjetas o contenedores */
+  --wine: #ff69b4;         /* Rosado brillante para botones principales */
+  --wine-dark: #d81b60;    /* Rosado intenso para bordes o estados hover */
+  --rose: #ffb6c1;         /* Rosado suave para detalles y acentos */
+  --text: #4a2e35;         /* Texto oscuro legible con tinte rosado */
+  --white: #ffffff;        /* Blanco puro */
 }
 
 * {
